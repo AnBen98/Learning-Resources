@@ -1,5 +1,5 @@
 <template>
-  <the-header title="RememberMe"></the-header>
+  <the-header title="Post Your Learning Resources "></the-header>
   <the-resources></the-resources>
 </template>
 
@@ -10,8 +10,8 @@ import TheResources from './components/learning-resources/TheResources.vue';
 export default {
   components: {
     TheHeader,
-    TheResources
-  }
+    TheResources,
+  },
 };
 </script>
 
